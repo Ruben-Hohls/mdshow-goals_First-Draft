@@ -1,5 +1,5 @@
 # mdshow goals First draft
-> Simple Readme that outlines the goals and expectations of the project "mdshow" with an overview of the technology stacked currently implemented. 
+> Simple Readme that outlines the goals and expectations of the project "mdshow" while listing the technology stacked currently implemented. 
 
 ---
 
@@ -11,7 +11,7 @@
 ## User goals/expectations:
 
 - Say goodbye to ~~MS Powerpoint/Libre Impress~~ and create powerful presentations to be easily shared and presented where content belongs, on the web!
-- Effeciently turn your 'Markdown' text into stunning presentations in the blink of an eye. 
+- Effeciently turn your Markdown text into stunning presentations in the blink of an eye. 
 - See your text transform into presentation-format in real time, allowing the ultimate authoring experience, live! 
 - Access to a library of different formats, styles, elements and features allowing you to create precisely what you envsion.
 - Integrate your own ideas and concepts by creating customised content to be used and shared.
@@ -24,3 +24,7 @@
 - [reveal.js](https://revealjs.com/) - Presentation framework 
 - [remark.js](https://remark.js.org/) - Customizable markdown parser
 - [vite](https://vitejs.dev/) - Build system with hot-reloading functionality
+
+  <sub> Hidden message below </sub>
+
+<!-- @jceb Here is a simple first draft, not done yet but I have to go at the moment, I haven't used Github in a while so I had fun learning the basic syntax while writing this  -->
