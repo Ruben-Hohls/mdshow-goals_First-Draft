@@ -4,7 +4,7 @@
 ---
 
 ## What is mdshow ?
-'mdshow' is a tool built to transform your [Markdown](https://daringfireball.net/projects/markdown/) text into engaging and appealing presentations.
+`mdshow` is a tool built to transform your [Markdown](https://daringfireball.net/projects/markdown/){:target="_blank"} text into engaging and appealing presentations.
 
 ---
 
