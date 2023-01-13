@@ -17,6 +17,8 @@
 - Integrate your own ideas and concepts by creating customised content to be used and shared.
 - *More goals to be added/edited here* 
 
+---
+
 ## Current technology used by mdshow
 
 - [reveal.js](https://revealjs.com/) - Presentation framework 
